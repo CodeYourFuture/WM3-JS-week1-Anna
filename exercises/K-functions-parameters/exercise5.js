@@ -1,5 +1,14 @@
 // Declare your function here
+function GetdaysinAge(age){
 
-const greeting = createLongGreeting("Daniel", 30);
+}
+function createLongGreeting(name,age){
 
-console.log(greeting);
+    
+const message = "My name is " + name + "I am " + age + "30 years old";
+
+}
+createLongGreeting(Daniel,30);
+
+console.log(createLongGreeting);
+
